@@ -1,0 +1,147 @@
+{
+  "_meta": {
+    "maxChars": {
+    }
+  },
+   "en": {
+
+      "silence": " ",
+      "speak_on": "Speak: on",
+      "speak_off": "Speak: off",
+
+      "game_title": "Welcome to: Legendary Quest!",
+
+      "play": "PLAY",
+      "try_again": "TRY AGAIN",
+      "quit_game": "QUIT GAME",
+      "oh_no": "OH NO!!",
+      "loading": "Loading...",
+      "yes": "Yes",
+      "no": "No",
+      "game_over": "Game Over",
+      "game_over_speak": "Game Over. Try again?",
+
+      "dungeon_level": "Dungeon Level",
+
+      "magic_spring_test": "Prove your wisdom to recharge your magical power?",
+      "magic_spring_locked": "Defeat the nearby monsters to activate the magic spring!",
+      "btn_yes": "YES!",
+      "magic_power_restored": "Magic power restored!",
+
+      "scroll_chest_test": "Only the wise can access the secrets inside this chest...",
+      "scroll_chest_locked": "Defeat the nearby monsters to open the chest!",
+      "btn_open": "OPEN!",
+
+      "exit_level": "Exit through the portal?",
+      "exit_level_locked": "Defeat the nearby monster to activate the exit portal!",
+
+
+
+      "__tutorial__": "TUTORIAL ========================================",
+      "skip": "Skip",
+      "confirm_skip": "Skip the tutorial?",
+
+      "tut_step1_01": "Hi. This is Stella, the little witch apprentice!",
+      "tut_step1_02": "She needs your help to find all kinds of treasures in these dungeons!",
+      "tut_step1_03": "Click or tap on the ground to tell Stella where to move.",
+
+      "tut_step2_01": "Beware! there are evil monsters ahead! They'll attack if they see you.",
+      "tut_step2_02": "Click or tap on a monster to attack!",
+      "tut_step2_03": "Great job!",
+      "tut_step2_04": "You lost some health. \nFortunately, Stella knows how to cast the Heal Spell!",
+      "tut_step2_05": "Click or tap the button to heal!",
+
+      "tut_step3_01": "There are more evil monsters ahead!",
+      "tut_step3_02": "Stella also knows how to cast the powerful Fire Spell!",
+      "tut_step3_03": "To use it, select a monster and press the Fire button!",
+
+      "tut_step4_01": "You use magical power each time you cast a spell.",
+      "tut_step4_02": "Step on the Magic Spring and solve the puzzle to replenish your magical power!",
+      "tut_step4_03": "Great job! You can use the Magic Springs as much as you want!",
+
+      "tut_step5_01": "The dungeons can be tricky to navigate! Use the Map Button on the top left to find your way through!",
+
+      "tut_step6_01": "That's it! Explore the dungeons and see what treasures you can find!",
+      "tut_step6_02": "You may even find new spells! Collect 4 fragments of each one to unlock them!",
+      "tut_step6_03": "Have fun!!",
+
+
+      "__spells_screen__": "SPELLS SCREEN ========================================",
+      "spells_title": "SPELLS",
+      "spells_instructions": "Select a spell to learn more about it!",
+
+      "spell_heal_name": "HEAL",
+      "spell_heal_description": "Restores some of your health.",
+
+      "spell_shield_name": "SHIELD",
+      "spell_shield_description": "Reduces the damage taken by half. \nLasts 10 seconds.",
+
+      "spell_doubledamage_name": "DOUBLE DAMAGE",
+      "spell_doubledamage_description": "All your attacks do double damage! \nLasts 10 seconds.",
+
+      "spell_fire_name": "FIRE",
+      "spell_fire_description": "Creates a powerful fire burst. \nConsumes some magic power.",
+
+      "spell_ice_name": "ICE",
+      "spell_ice_description": "Casts a frosty blast of power. \nConsumes more magic power that fire.",
+
+      "spell_lightning_name": "LIGHTNING",
+      "spell_lightning_description": "Unleash a zapping bolt of lightning. \nConsumes a lot of magic power.",
+
+
+      "__fragments__": "FRAGMENTS ========================================",
+      "spell_heal_fragment": "Fragment of the HEAL spell!",
+      "spell_shield_fragment": "Fragment of the SHIELD spell!",
+      "spell_doubledamage_fragment": "Fragment of the DOUBLE DAMAGE spell!",
+      "spell_fire_fragment": "Fragment of the FIRE spell!",
+      "spell_ice_fragment": "Fragment of the ICE spell!",
+      "spell_lightning_fragment": "Fragment of the LIGHTNING spell!",
+
+
+      "__map_screen__": "MAP SCREEN ========================================",
+      "map_title": "MAP",
+      "map_start": "Start",
+      "map_chest": "Chest",
+      "map_magic_spring": "Magic Spring",
+      "map_exit": "Exit",
+
+
+      "__treasures__": "TREASURES ========================================",
+      "treasures_screen_ttl": "Treasures found",
+      "you_found_treasure": "You found a treasure!",
+
+      "tr_01": "Ethereal Crystal Shards",
+      "tr_02": "Fairy Dust Vial",
+      "tr_03": "Rainbow Gemstone",
+      "tr_04": "Secret Garden Seeds",
+      "tr_05": "Golden Goose Egg",
+      "tr_06": "Orb of Radiant Light",
+      "tr_07": "Mystic Moonstone",
+      "tr_08": "Emerald Dragon Egg",
+      "tr_09": "Magic Starfish Necklace",
+      "tr_10": "Luminous Pearl of the Deep",
+      "tr_11": "Lucky Leprechaun Coin",
+      "tr_12": "Crimson Dragon Egg",
+      "tr_13": "Starlight Lantern",
+      "tr_14": "Wizard's Hat of Tricks",
+      "tr_15": "Unicorn Horn Charm",
+      "tr_16": "Turquoise Dragon Egg",
+      "tr_17": "Phoenix Feather Amulet",
+      "tr_18": "Friendly Frog Figurine",
+      "tr_19": "Scarf of Shadows",
+      "tr_20": "Ochre Dragon Egg",
+      "tr_21": "Emerald Eye of the Serpent",
+      "tr_22": "Wishing Wand",
+      "tr_23": "Wondrous Watering Can",
+      "tr_24": "Ivory Dragon Egg",
+      "tr_25": "Master Blade",
+      "tr_26": "Core Drill",
+      "tr_27": "Eternity Gauntlet",
+      "tr_28": "Ebony Dragon Egg",
+      "tr_29": "Vampirang",
+      "tr_30": "Question Block",
+
+
+      "_end_": "END"
+   }
+}
